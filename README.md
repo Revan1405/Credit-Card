@@ -1,20 +1,65 @@
-Credit Card Transaction Analysis Dashboard (Power BI)
-📌 Project Overview
+# 💳 Credit Card Transaction Dashboard
 
-This project presents an interactive Credit Card Transaction Dashboard built using Power BI to analyze customer spending behavior, revenue trends, profitability, and customer engagement.
+## 📌 Overview
 
-The dashboard provides insights into:
+This project presents an interactive **Credit Card Transaction Dashboard** that analyzes customer spending behavior, revenue generation, and profitability. It helps identify key trends across card categories, customer segments, and time periods.
 
-1. Revenue and profit performance
+---
 
-2. Customer transaction patterns
+## 🎯 Key Features
 
-3. Card activation rate
+* **KPI Summary**
 
-4. Customer satisfaction score
+  * Total Revenue: ₹11M
+  * Total Interest: ₹7.98M
+  * Total Amount: ₹46M
+  * Total Profit: ₹10M
+  * Total Customers: 10.29K
 
-5. Spending trends across months and quarters
+* **Card Category Analysis**
 
-6. Revenue contribution by customer education level
+  * Revenue breakdown by card type (Blue, Silver, Gold, Platinum)
 
-The goal of this project is to help financial institutions identify profitable customer segments, monitor spending patterns, and improve customer engagement strategies.
+* **Quarterly Trends**
+
+  * Revolving balance vs transaction count analysis
+
+* **Customer Insights**
+
+  * Satisfaction score distribution
+  * Card activation rate within 30 days
+
+* **Monthly Performance**
+
+  * Customer acquisition cost vs revenue vs profit
+
+* **Dynamic Filters**
+
+  * Gender filter
+  * Segmentation by job, income group, education, etc.
+
+---
+
+## 📈 Insights You Can Derive
+
+* Blue card dominates revenue (~₹9.3M), contributing the majority share → key revenue driver.
+* Revenue heavily concentrated in one segment → potential dependency risk.
+* Q4 shows peak activity (highest transactions & balances) → strong seasonal demand.
+* Customer acquisition cost varies significantly, impacting monthly profitability.
+* Profit (~₹10M) closely tracks revenue, indicating overall healthy margins.
+* Activation rate ~57% → nearly half of customers are not fully engaged.
+* Customer satisfaction peaks at mid-level scores (3–4) → room for experience improvement.
+
+---
+
+
+## 📊 Key Metrics Explained
+
+* **Revenue**: Total income from transactions
+* **Interest**: Earnings from revolving balances
+* **Profit**: Net gain after costs
+* **Customer Acquisition Cost**: Cost to acquire new customers
+* **Satisfaction Score**: Customer experience rating
+
+---
+
