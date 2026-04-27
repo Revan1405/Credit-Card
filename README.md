@@ -40,7 +40,7 @@ This project presents an interactive **Credit Card Transaction Dashboard** that 
 
 ---
 
-## 📈 Insights You Can Derive
+## 📈 Insights
 
 * Blue card dominates revenue (~₹9.3M), contributing the majority share → key revenue driver.
 * Revenue heavily concentrated in one segment → potential dependency risk.
